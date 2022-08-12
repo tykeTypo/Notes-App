@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376485051753",
+    "project_id": "notes-cece8",
+    "storage_bucket": "notes-cece8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376485051753:android:0bd71ac66c28c7e4a491f8",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376485051753-fa8nnpnm2tl4m19vu8oju1lvib8flfj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMy6FsN9M4KaaIllYbeNWTJk6dNFOMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376485051753-fa8nnpnm2tl4m19vu8oju1lvib8flfj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
