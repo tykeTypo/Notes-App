@@ -9,15 +9,14 @@
     tools:context=".MainActivity">
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/add_note_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        app:backgroundTint="@color/blue"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+        android:background="@color/white"
         android:src="@drawable/ic_baseline_add_24"
-        android:id="@+id/add_note_btn"
-        />
+        app:backgroundTint="@color/blue" />
 
 
 </RelativeLayout>
